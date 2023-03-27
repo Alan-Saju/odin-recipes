@@ -1,0 +1,13 @@
+h1{
+    font-size:40px;
+    color: darkblue; 
+    font-weight: bold;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
+}
